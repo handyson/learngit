@@ -1,2 +1,3 @@
 I am learning git.
 trying git diff.
+third line of this txt.

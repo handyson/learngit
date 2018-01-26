@@ -4,3 +4,4 @@ third line of this txt.
 I am testing the branch
 fifth line.
 test no fast forward.
+I try to push code to a new branch which not exist in local.
